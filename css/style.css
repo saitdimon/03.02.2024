@@ -1,0 +1,59 @@
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    margin: 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item2 {
+    background-color: grey;
+}
+
+.btn2 {
+    background-color: grey;
+}
+
+.item3 {
+    background-color: rgba(128, 128, 128, 0.295);
+}
+
+.btn3 {
+    background-color: rgba(128, 128, 128, 0.295);
+}
+
+.item button {}
+
+
+.divik {
+    background-color: red;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.text_nal {
+    color: white;
+}
+
+.inp {
+    width: 500px;
+}
+
+.btn {}
+
+.ul {
+    list-style: none;
+    background-color: rgba(128, 128, 128, 0.295);
+}
+
+.lolr {
+    padding: 25px 0px 10px 0px;
+}
+
+button {
+    border: 0px;
+    border-radius: 0%;
+}
